@@ -1,2 +1,2 @@
 ## MY PORTFOLIO
-![screenshot](banner.png)
+![screenshot](img.png)
