@@ -1,7 +1,6 @@
-## MY PORTFOLIO
+### Hi, I'm Jayash 👋
 ![screenshot](img.png)
 
-### Hi, I'm Jayash 👋
 
 - 🔭 I’m currently working on Full Stack Web Apps
 - 🌱 Learning: Advanced ML, CI/CD with GitHub Actions
